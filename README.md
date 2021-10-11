@@ -10,3 +10,7 @@ Trying to be a Game Developer, or Game Engine Programmer :D
 ## 🔗 Active Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KorieDrakeChaney&repo=Basic-WebGL-Renderer&theme=cobalt)](https://github.com/KorieDrakeChaney/Basic-WebGL-Renderer)
+
+## 🛠 Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KorieDrakeChaney&layout=compact&theme=cobalt)](https://github.com/KorieDrakeChaney/KorieDrakeChaney)
