@@ -14,4 +14,4 @@ Trying to be a Game Developer, or Game Engine Programmer :D
 
 ## 🛠 Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KorieDrakeChaney&layout=compact&theme=cobalt)](https://github.com/KorieDrakeChaney/KorieDrakeChaney)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KorieDrakeChaney&layout=compact&theme=cobalt)]
