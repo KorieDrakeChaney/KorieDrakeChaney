@@ -11,7 +11,7 @@ Trying to be a Game Developer, or Game Engine Programmer :D
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KorieDrakeChaney&repo=Basic-WebGL-Renderer&theme=cobalt)](https://github.com/KorieDrakeChaney/Basic-WebGL-Renderer)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KorieDrakeChaney&repo=2D-Game-using-WebGL&theme=cobalt)](https://github.com/KorieDrakeChaney/2D-Game-using-WebGL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KorieDrakeChaney&repo=2D-Game-using-WebGL&theme=cobalt)](https://github.com/KorieDrakeChaney/2D-Game-Engine-using-WebGL)
 
 ## 🛠 Skills
 
