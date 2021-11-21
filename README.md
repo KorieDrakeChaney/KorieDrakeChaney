@@ -13,7 +13,9 @@ Trying to be a Game Developer, or Game Engine Programmer :D
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KorieDrakeChaney&repo=2D-Game-Engine-using-WebGL&theme=cobalt)](https://github.com/KorieDrakeChaney/2D-Game-Engine-using-WebGL)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KorieDrakeChaney&repo=WebAssembly-SDL-OpenGL&theme=cobalt)](https://github.com/KorieDrakeChaney/WebAssembly-SDL-OpenGL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KorieDrakeChaney&repo=WebAssembly-OpenGL&theme=cobalt)](https://github.com/KorieDrakeChaney/WebAssembly-OpenGL)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KorieDrakeChaney&repo=Magnito&theme=cobalt)](https://github.com/KorieDrakeChaney/Magnito)
 
 ## 🛠 Skills
 
