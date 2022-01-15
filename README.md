@@ -1,7 +1,6 @@
 
 ## 🚀 About Me
-Trying to be a Game Developer, or Game Engine Programmer :D
-
+Trying to be the best : )
   
 # Hi, I'm Korie 👋
 
