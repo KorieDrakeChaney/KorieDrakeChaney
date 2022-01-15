@@ -11,7 +11,7 @@ Trying to be a Game Developer, or Game Engine Programmer :D
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KorieDrakeChaney&repo=Learn-WebGl-With-Rust&theme=cobalt)](https://github.com/KorieDrakeChaney/Learn-WebGl-With-Rust)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KorieDrakeChaney&repo=KorieDrakeChaney.github.io&theme=cobalt)](https://github.com/KorieDrakeChaney/KorieDrakeChaney.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KorieDrakeChaney&repo=KorieDrakeChaney.github.io&theme=cobalt)](https://github.com/KorieDrakeChaney/KorieDrakeChaney.github.io/tree/main)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KorieDrakeChaney&repo=WeBro-Lib&theme=cobalt)](https://github.com/KorieDrakeChaney/WeBro-Lib)
 
