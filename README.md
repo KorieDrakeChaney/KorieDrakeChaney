@@ -9,9 +9,13 @@ Trying to be a Game Developer, or Game Engine Programmer :D
   
 ## 🔗 Active Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KorieDrakeChaney&repo=Basic-WebGL-Renderer&theme=cobalt)](https://github.com/KorieDrakeChaney/Basic-WebGL-Renderer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KorieDrakeChaney/Learn-WebGl-With-Rust&theme=cobalt)](https://github.com/KorieDrakeChaney/Learn-WebGl-With-Rust)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KorieDrakeChaney&repo=2D-Game-Engine-using-WebGL&theme=cobalt)](https://github.com/KorieDrakeChaney/2D-Game-Engine-using-WebGL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KorieDrakeChaney/KorieDrakeChaney.github.io&theme=cobalt)](https://github.com/KorieDrakeChaney/KorieDrakeChaney.github.io)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KorieDrakeChaney/WeBro-Lib&theme=cobalt)](https://github.com/KorieDrakeChaney/WeBro-Lib)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KorieDrakeChaney/WeBrogue&theme=cobalt)](https://github.com/KorieDrakeChaney/WeBrogue)
 
 ## 🛠 Skills
 
